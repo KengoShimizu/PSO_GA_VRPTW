@@ -1,0 +1,9 @@
+population_size : 100
+iteration(generation) : 300
+tournament_selection : 10
+elitism_number : 3
+c1 : 0.0002
+c2 : 0.005
+time : 9999999999
+improve : 300
+experiment : best_para
